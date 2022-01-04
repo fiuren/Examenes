@@ -10,4 +10,7 @@ echo password_hash("admin",  PASSWORD_BCRYPT, ['cost'=>12]) ?>
 
 
 <!-- esto nos sirve para crear un hash (una contraseña encriptada) para la contraseña de nuestro usuario. Lo hacemos con admin, y despues lo repetimos 
-tantas veces, como usuarios queramos crear; en nuestro caso 2 veces mas correspondientes a operador1 y operador 2 -->
+tantas veces, como usuarios queramos crear; en nuestro caso 2 veces mas correspondientes a operador1 y operador 2 
+
+referencia: https://jairogarciarincon.com/clase/creacion-de-un-cms-desde-cero-con-patron-mvc/conclusiones
+-->
